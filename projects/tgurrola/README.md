@@ -1,3 +1,3 @@
-Readme for tgurrola
-git add README.md
-git commit -m "Added README.md"
+# Readme for tgurrola
+testing testing 123
+

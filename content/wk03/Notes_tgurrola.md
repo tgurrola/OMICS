@@ -18,7 +18,8 @@ solution/SRR23803538.trimmed.fastq.gz
 solution/SRR23803539.trimmed.fastq.gz
 ```
 6. Use seqkit stats to generate basic statistics about about the demultiplexed and trimmed data.
-# Refection Questions
+## Refection Questions
  - Are there an equal number of reads from each sample?
  - Are the read lengths the same between each sample?
-   
+# Solution  
+1. flag used for seqkit subseq is -r, meaning remove?
